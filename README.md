@@ -1,8 +1,8 @@
 # 关于：
-> **WEB Print Agent** 是一个C/S结构的B/S打印代理程序。
+> **WEB Print Agent** 是一个C#编写的C/S结构网页打印代理程序。
 
 * 提供PC上直接调起打印机打印的能力
-* 监听HTTP请求的31400端口，用来接收打印的JSON接口
+* 监听HTTP请求的31400端口，用来接收打印的JSON数据
 
 # 目录结构：
 **WindowsFormsPrint 源文件目录**
