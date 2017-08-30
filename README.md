@@ -23,6 +23,23 @@ obj                    用于存放编译过程中生成的中间临时文件
 
 Properties             定义程序集的属性  
 
+# 调试方法：
+
+1.  下载源码，用宇宙第一IDE打开解决方案
+2.  修改代码（当然不修改也可以直接运行o(*￣︶￣*)o  ）
+3.  启动项目
+4.  用浏览器打开demo.html
+5.  点击submit按钮
+6.  等待打印结果
+
+# 使用方法：
+
+1.  下载源码
+2.  拷贝bin/Debug/目录下config.ing和WindowsFormsPrint.exe文件到任何文件夹下
+3   双击WindowsFormsPrint.exe运行
+4.  用浏览器打开demo.html
+5.  点击submit按钮
+6.  等待打印结果
 
 
 -------------------
