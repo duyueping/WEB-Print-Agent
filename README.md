@@ -26,4 +26,4 @@ Properties             定义程序集的属性
 
 
 -------------------
-*© WEB Print Agen*
+*© WEB Print Agent*
