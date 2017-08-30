@@ -1,0 +1,11 @@
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe.config
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.pdb
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\Newtonsoft.Json.dll
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\Newtonsoft.Json.pdb
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Release\Newtonsoft.Json.xml
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Form.resources
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Properties.Resources.resources
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.csproj.GenerateResource.Cache
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.exe
+D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.pdb
