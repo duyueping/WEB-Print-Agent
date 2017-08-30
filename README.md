@@ -7,14 +7,22 @@
 # 目录结构：
 **WindowsFormsPrint 源文件目录**
 
-+bin                    编译目录  
-+　　|- Debug               调试版本可执行程序生成目录  
-+		|- config.ini           程序配置文件 其中PrinterName=Microsoft XPS Document Writer 指定打印机名称  
-+　　|- Release             发行版本可执行程序生成目录  
-+obj                    用于存放编译过程中生成的中间临时文件  
-+　　|- Debug               调试版本编译过程中生成的中间临时文件  
-+　　|- Release             发行版本编译过程中生成的中间临时文件  
-+Properties             定义程序集的属性  
+bin                    编译目录  
+
+　　|- Debug               调试版本可执行程序生成目录  
+
+		|- config.ini           程序配置文件 其中PrinterName=Microsoft XPS Document Writer 指定打印机名称  
+
+　　|- Release             发行版本可执行程序生成目录  
+
+obj                    用于存放编译过程中生成的中间临时文件  
+
+　　|- Debug               调试版本编译过程中生成的中间临时文件  
+
+　　|- Release             发行版本编译过程中生成的中间临时文件  
+
+Properties             定义程序集的属性  
+
 
 
 -------------------
