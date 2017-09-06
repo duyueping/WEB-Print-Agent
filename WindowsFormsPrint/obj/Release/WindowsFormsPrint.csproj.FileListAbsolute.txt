@@ -9,3 +9,20 @@ D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\Win
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.csproj.GenerateResource.Cache
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.exe
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.pdb
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe.config
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.exe
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.pdb
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Form.resources
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Properties.Resources.resources
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.csproj.GenerateResource.Cache
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.pdb
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe.config
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.exe
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.pdb
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.csprojResolveAssemblyReference.cache
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Form.resources
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.Properties.Resources.resources
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Release\WindowsFormsPrint.csproj.GenerateResource.Cache
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.exe
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Release\WindowsFormsPrint.pdb

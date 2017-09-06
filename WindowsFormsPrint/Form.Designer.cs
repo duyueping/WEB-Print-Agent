@@ -32,46 +32,59 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form));
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
-            this.myMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.显示ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.traymenu = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.洛佩塔系統打印服務ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.退出ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.myMenu.SuspendLayout();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.traymenu.SuspendLayout();
             this.SuspendLayout();
             // 
             // printDocument1
             // 
             this.printDocument1.PrintPage += new System.Drawing.Printing.PrintPageEventHandler(this.printDocument1_PrintPage);
             // 
-            // myMenu
+            // notifyIcon1
             // 
-            this.myMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.显示ToolStripMenuItem,
+            this.notifyIcon1.ContextMenuStrip = this.traymenu;
+            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
+            this.notifyIcon1.Visible = true;
+            // 
+            // traymenu
+            // 
+            this.traymenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.洛佩塔系統打印服務ToolStripMenuItem,
             this.退出ToolStripMenuItem});
-            this.myMenu.Name = "contextMenuStrip1";
-            this.myMenu.Size = new System.Drawing.Size(69, 48);
+            this.traymenu.Name = "traymenu";
+            this.traymenu.Size = new System.Drawing.Size(185, 48);
             // 
-            // 显示ToolStripMenuItem
+            // 洛佩塔系統打印服務ToolStripMenuItem
             // 
-            this.显示ToolStripMenuItem.Name = "显示ToolStripMenuItem";
-            this.显示ToolStripMenuItem.Size = new System.Drawing.Size(68, 22);
+            this.洛佩塔系統打印服務ToolStripMenuItem.Name = "洛佩塔系統打印服務ToolStripMenuItem";
+            this.洛佩塔系統打印服務ToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.洛佩塔系統打印服務ToolStripMenuItem.Text = "洛佩塔系統打印服務";
             // 
             // 退出ToolStripMenuItem
             // 
             this.退出ToolStripMenuItem.Name = "退出ToolStripMenuItem";
-            this.退出ToolStripMenuItem.Size = new System.Drawing.Size(68, 22);
+            this.退出ToolStripMenuItem.Size = new System.Drawing.Size(184, 22);
+            this.退出ToolStripMenuItem.Text = "退出";
+            this.退出ToolStripMenuItem.Click += new System.EventHandler(this.退出ToolStripMenuItem_Click);
+
             // 
             // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(271, 0);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.ClientSize = new System.Drawing.Size(129, 0);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Form";
-            this.Text = "打印代理程序";
-            this.myMenu.ResumeLayout(false);
+            this.ShowInTaskbar = false;
+            this.Text = "洛佩塔系統打印服務";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
+            this.traymenu.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -80,9 +93,10 @@
 
         private System.Drawing.Printing.PrintDocument printDocument1;
         private System.Windows.Forms.NotifyIcon notifyIcon1;
-        private System.Windows.Forms.ContextMenuStrip myMenu;
-        private System.Windows.Forms.ToolStripMenuItem 显示ToolStripMenuItem;
+        private System.Windows.Forms.ContextMenuStrip traymenu;
         private System.Windows.Forms.ToolStripMenuItem 退出ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 洛佩塔系統打印服務ToolStripMenuItem;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

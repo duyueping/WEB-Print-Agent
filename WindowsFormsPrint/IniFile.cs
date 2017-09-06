@@ -1,11 +1,4 @@
-﻿/**
-* @brief WEB-Print-Agent
-*
-* @author yueping du <duyueping@vip.qq.com>
-* @since 2017-08-30 16:45:00
-*/
-
-using System;
+﻿using System;
 using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;

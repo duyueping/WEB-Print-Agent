@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+<input id="Submit1" type="button" value="submit" />
+<script type="text/javascript">
+
+$(document).ready(function(){
+    $("#Submit1").click(function () {
+        var a = '{"tid":"0","id":"洛佩塔甜點","oid":"123456","ptime":"2017-08-09 11:23:22","paytype":"意念支付","ys":"80","ss":"100","zl":"20","sl":"祝您用餐愉快","order":[{"id":"5","goodsname":"紅絲絨","goodsnum":"1","goodsp":"158"},{"id":"333","goodsname":"樹莓荔枝夏洛特","goodsnum":"2","goodsp":"238"}],"truename":"龍翔翎","telephone":"18646049211","address":"十字街18號院1單元201室"}';
+        $.ajax({
+            url: 'http://127.0.0.1:31400/?a='+ encodeURI(encodeURI(a)),
+            success: function (data) {
+            }
+        });
+    });
+});
+</script>
+</body>
+</html>
+

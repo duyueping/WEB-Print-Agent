@@ -9,14 +9,32 @@ D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\Windo
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.dll
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.pdb
 D:\实用功能代码\打印\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csprojResolveAssemblyReference.cache
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Form.resources
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Properties.Resources.resources
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.GenerateResource.Cache
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.CoreCompileInputs.cache
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.exe
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.pdb
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe.config
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.pdb
-C:\Users\Adu\Desktop\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe.config
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.exe
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.pdb
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csprojResolveAssemblyReference.cache
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Form.resources
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Properties.Resources.resources
+C:\Users\Velade\Documents\Visual Studio 2015\Projects\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.GenerateResource.Cache
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe.config
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.exe
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.pdb
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.pdb
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.pdb
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.xml
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csprojResolveAssemblyReference.cache
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Form.resources
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Properties.Resources.resources
+D:\WindowsFormsPrint\WindowsFormsPrint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.GenerateResource.Cache
+D:\webprint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe.config
+D:\webprint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.exe
+D:\webprint\WindowsFormsPrint\bin\Debug\WindowsFormsPrint.pdb
+D:\webprint\WindowsFormsPrint\bin\Debug\Newtonsoft.Json.dll
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csprojResolveAssemblyReference.cache
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Form.resources
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.Properties.Resources.resources
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.GenerateResource.Cache
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.csproj.CoreCompileInputs.cache
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.exe
+D:\webprint\WindowsFormsPrint\obj\Debug\WindowsFormsPrint.pdb
